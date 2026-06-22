@@ -16,7 +16,7 @@ Power BI dashboard screenshots:
 
 ![Executive Overview](dashboard_executive_overview.png)
 
-![Detailed Analysis](dashboarddetailed_analysis.png)
+![Detailed Analysis](dashboard_detailed_analysis.png)
 
 ## Power BI File
 
