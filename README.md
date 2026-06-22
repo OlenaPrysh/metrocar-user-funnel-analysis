@@ -9,6 +9,14 @@ This project analyzes the Metrocar user funnel to identify drop-off points and u
 - SQL
 - Power BI
 - Excel
+- DAX
+
+## Business Questions
+
+1. Where do users drop off in the funnel?
+2. What is the overall conversion rate?
+3. Which age groups perform best?
+4. How does user activity change throughout the day?
 
 ## Dashboard
 
